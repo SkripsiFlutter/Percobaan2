@@ -13,7 +13,7 @@ class BmiPage extends StatefulWidget {
 
 class _InputPageState extends State<BmiPage> {
   bool isMaleSelected = false;
-  int height = 155;
+  int height = 159;
   int weight = 55;
   int age = 22;
   void ageIncrement() {
